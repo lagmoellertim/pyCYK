@@ -4,7 +4,9 @@
 
 2.  How to use pyCYK
 
-3.  Credits
+3.  License
+
+4.  Credits
 
 
 
